@@ -58,3 +58,8 @@ Galielo es un placa de Intel que corre Linux, sobre el cual, corre los sketchs d
     int    timeout = 0;  // milliseconds, era 5000.
 ```
 5. Guardar y volver a compilar el sketch
+
+
+## En caso de errores
+
+Desinstalar el soporte de Intel y volver a instalar. Repetir desde el paso 2.
